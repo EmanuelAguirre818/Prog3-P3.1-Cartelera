@@ -143,4 +143,18 @@ export const initialMovies = [
     date: "2026-04-14",
     time: "23:00",
   },
+  {
+    id: 11,
+    title: "Pulpo Loco",
+    director: "Quentin Tarantino",
+    duration: "154 min",
+    rating: "Apta para mayores de 18 años",
+    poster:
+      "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    cinemas: ["Cine “El Cairo”", "Showcase Rosario"],
+    synopsis:
+      "Las vidas de dos sicarios de la mafia, un boxeador, la esposa de un gánster y dos bandidos se entrelazan.",
+    date: "2026-04-14",
+    time: "23:00",
+  },
 ];
